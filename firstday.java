@@ -4,3 +4,6 @@ class firstday {
     }
 
 }
+// git config --global user.name "Vipul Tembulwar"
+// git config --global user.email " "
+// git config --global --edit
